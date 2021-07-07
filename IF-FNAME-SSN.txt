@@ -1,0 +1,6 @@
+First Name: John
+Email: john@email.com
+Phone: 855-766-3835
+SSN: 111-11-1234
+DOB: 5/10/2021
+IP: 192.168.2.1
